@@ -8,3 +8,4 @@
 
 # Object Detection from Image
 - Object is detected from image with the help of some python libraries like imageai.Detection and os. Here is an code for object detection from image.
+- You can view the code saved as image.py in this repository only.
